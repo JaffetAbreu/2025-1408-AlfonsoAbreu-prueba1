@@ -63,4 +63,13 @@ public class Tarea {
                 "\nCategoría: " + categoria +
                 "\nCompletada: " + (completada ? "Sí" : "No");
     }
+
+    public void mostrarInfo(int i) {
+    }
+
+    public void marcarComoCompletada() {
+    }
+
+    public void editarTarea(String descripcion, String fechaLimite, String prioridad, String categoria) {
+    }
 }
